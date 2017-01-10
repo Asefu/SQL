@@ -1,0 +1,2 @@
+# SQL
+Microsoft: DAT201x Querying with Transact-SQL from edx ID Verified certificate available at: https://courses.edx.org/certificates/e87ee40f27cd41dc97eecc4a4c65ee6f Course Outline Introduction to Transact-SQL Querying Tables with SELECT Querying Multiple Tables with Joins Using Set Operators Using Functions and Aggregating Data Using Subqueries and APPLY Using Table Expressions Grouping Sets and Pivoting Data Modifying Data Programming with Transact-SQL Error Handling and Transactions
